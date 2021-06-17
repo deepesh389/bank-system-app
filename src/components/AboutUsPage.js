@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const AboutUsPage = () => (
     <div>
-      <h1 className="about-title">Developed and Designed by Mohit Chaukiker</h1>
+      <h1 className="about-title">Developed and Designed by Deepesh Kumar</h1>
       <div className="icons">
       <a href="https://github.com/MohitC1510" target="_blank"  >
          <FaGithub size={70} />
