@@ -4,11 +4,11 @@ const DashboardPage = () => (
     <div className="dashboard">
       <div className="dashboard_content">
 
-        <h1>Welcome To Sparks Bank</h1>
+        <h1>Basic Banking System</h1>
         <div className="dashboard_content_link">
         <NavLink className="dashboard_link" to="/transactions">Transactions</NavLink>
         <NavLink className="dashboard_link" to="/accounts">Accounts</NavLink>
-        <NavLink className="dashboard_link" to="/transfer">Transfer</NavLink>
+        <NavLink className="dashboard_link" to="/transfer">Money Transfer</NavLink>
         </div>
       
       </div>

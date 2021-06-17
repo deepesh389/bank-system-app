@@ -5,11 +5,11 @@ import { Link, NavLink } from "react-router-dom";
     <div className="content-container">
        
       <div className="header__content">
-      <img src="/images/bank.png" alt="" />
-    <NavLink activeStyle={{color: "#6c757d"}} className="header__title" to="/" exact={true}>
+      
+    <NavLink activeStyle={{color: "whitesmoke"}} className="header__title" to="/" exact={true}>
        <h1>Home</h1>
     </NavLink>
-    <NavLink activeStyle={{color: "#6c757d"}} activeClassName="active" className="header__title" to="/aboutus">
+    <NavLink activeStyle={{color: "whitesmoke"}} activeClassName="active" className="header__title" to="/aboutus">
        <h1>About</h1>
     </NavLink>
     </div>

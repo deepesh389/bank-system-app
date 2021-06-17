@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    border: 2px solid #00A09A;
+    border: 2px solid rgb(107, 14, 14);
     margin: $l-size $m-size;
     color: #6c757d;
     height: 50px;
@@ -22,7 +22,7 @@
     
 }
 .dashboard_link:hover{
-    background:#00A09A ;
+    background:rgb(107, 14, 14) ;
     color: white;
 }
 .dashboard_content{
@@ -34,7 +34,7 @@
     margin: auto;
 }
 .dashboard_content h1{
-    color: #6c757d;
+    color: rgb(107, 14, 14);
     // border: 2px solid black;
     font-size: $xl-size;
     @media(max-width: $desktop-breakpoint){

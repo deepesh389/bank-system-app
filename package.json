@@ -1,8 +1,8 @@
 {
-  "name": "expensify-app",
+  "name": "basic-banking",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Mohit Chaukiker",
+  "author": "Deepesh Kumar",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack --mode development",
